@@ -1,0 +1,470 @@
+*{
+	margin: 0;
+	padding:0;
+
+}
+
+
+body{
+	background-color: white;
+	font-family: sans-serif;
+
+
+
+}
+
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	
+
+
+
+}
+
+
+
+header{
+	height: 70px;
+	width: 100%;
+	float: left;
+	margin-top: 0 auto;
+	
+	
+
+
+
+}
+.header-container{
+	width: 70%;
+	margin:0 auto;
+	height: 58px;
+	background-color: #f6f9f9;
+
+	
+	
+
+
+}
+
+.header-logo{
+
+	width: 49%;
+	height: 50px;
+	float: left;
+	
+
+
+	
+
+}
+
+.header-logo img{
+	            height: 48px;
+			    width: 115px;
+			    display: block;
+			    margin: 6px 0px 5px -56px;
+
+
+}
+
+
+
+
+.header-right{
+	width: 49%;
+	height: 50px;
+   
+    float: left;
+    margin:2px 2px;
+  
+
+     
+
+}
+
+.banner{
+	width: 100%;
+	margin:0 auto;
+	float:left;
+
+}
+
+.banner-section{
+	
+	width: 100%;
+	height: 800px;
+	background:url(../img/banner.png);
+	background-size: cover;
+	background-position: center;
+
+}
+
+.design{
+
+	width:100%;
+	margin: 0 auto;
+	border:0% solid purple;
+	height: 340px;
+	float: left;
+
+}
+
+
+.design-details{
+	
+
+	width: 80%;
+    height: 300px;
+    background-color: #f6f9f9;
+    margin: 50px 0px 0px 126px;
+    text-align: center;
+
+}
+
+.icon-section{
+	width: 100%;
+    margin: 0 auto;
+    float: left;
+
+
+}
+
+.icon-container{
+	background-color: #ffffff;
+	width: 100%;
+	height: 400px;
+	margin: 0px auto;
+
+}
+
+.icon-one{
+	width: 33.33%;
+	height: 340px;
+	text-align: center;
+	float: left;
+	
+
+
+}
+
+.icon-one img{
+	height: 100px;
+    width: 100px;
+    display: block;
+    margin: 30px 0px 0px 135px;
+
+}
+.icon-two{
+	width: 33%;
+	height: 340px;
+	
+	text-align: center;
+	float: left;
+
+	
+}
+.icon-two img{
+	height: 100px;
+    width: 100px;
+    display: block;
+    margin: 30px 0px 0px 135px;
+
+
+}
+.icon-three{
+	width: 33%;
+	height: 340px;
+	
+	text-align: center;
+
+	float: left;
+	
+}
+
+.icon-three img{
+	height: 100px;
+    width: 100px;
+    display: block;
+    margin: 30px 0px 0px 135px;
+}
+.showcase{
+	width: 100%;
+	margin:0 auto;
+	float: left;
+}
+
+.showcase-container{
+	width: 100%;
+	margin:0 auto;
+	float:left;
+	height: 900px;
+	background-color: #f6f9f9;
+
+
+
+}
+
+.showcase-details{
+	width: 100%;
+	height: 200px;
+	margin: 0 auto;
+	background-color: #f8f8f8;
+	text-align: center;
+
+
+
+
+}
+.photoes{
+	   width: 100%;
+       margin:-100px 0px 0px 0px;
+    
+       height: 150px;
+}
+
+.photoes-one{
+    width: 30%;
+	height: 140px;
+
+	background:url(../img/pic/cup.png);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+
+
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+
+
+}
+
+
+	
+
+.photoes-two{
+	width:30%;
+	height: 140px;
+
+	background:url(../img/pic/fox.jpg);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+	
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+}
+.photoes-three{
+	width:30%;
+	height: 140px;
+
+	background:url(../img/pic/cat.png);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+	
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+
+
+
+}
+
+.photoes-row-two{
+	 width: 100%;
+     margin:0 auto;
+   
+     height: 150px;
+
+}
+
+
+.photoes-four{
+	width: 30%;
+	height: 140px;
+
+	background:url(../img/pic/superman.png);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+
+
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+}
+.photoes-five{
+	width: 30%;
+	height: 140px;
+
+	background:url(../img/pic/flower.png);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+
+
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+}
+.photoes-six{
+	width: 30%;
+	height: 140px;
+
+	background:url(../img/pic/chosmapora_icon.png);
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+
+
+	margin: 5px 5px 5px 20px;
+	float: left;
+	box-shadow: 0px 0px 10px 2px dodgerblue;
+
+}
+
+
+
+.conclusion{
+    width: 100%;
+    margin: 0 auto;
+    float:left;
+
+}
+
+.conclusion-container{
+	width: 100%;
+	height: 700px;
+
+	float: left;
+	
+	
+
+}
+.conclusion-img{
+	height: 700px;
+	width: 100%;
+	margin: 70px 0px 0px 0px;
+
+	background:url(../img/road-banner.png);
+	background-size: cover;
+	background-position: center;
+    float: left;
+
+
+}
+
+.input-field{
+    height: 200px;
+    width: 150px;
+    margin: 83px 34px 1px 320px;
+    background: transparent;
+}
+
+.form-control{
+	width: 287%;
+    padding: 11px 17px;
+    margin: 9px 0px;
+    outline: none;
+    transition: 0.4s;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    text-align: top;
+    background:rgba(229, 238, 244, 0.02);
+
+}
+.form-control-text{
+	width: 287%;
+    padding: 11px 17px;
+    margin: 9px 0px;
+    outline: none;
+    transition: 0.4s;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    background:rgba(229, 238, 244, 0.02);
+    padding-bottom: 70px
+
+}
+.log-in{
+	margin: 20px auto;
+    width: 150px;
+    
+   
+   
+    display: block;
+    
+    outline: none;
+   
+    
+}
+
+
+
+
+.end{background-color: #cae5f5;
+	padding-top: 100px;
+	height: 200px;
+	width: 100%;
+	float: left;
+box-shadow: 0px 0px 10px 2px dodgerblue;
+	
+
+
+
+
+}
+.end-container{
+	width: 100%;
+	margin:0 auto;
+
+	
+	
+	height: 50px;
+
+
+}
+
+.end-logo{
+
+	width: 48%;
+	height: 45px;
+	
+
+	margin:2px 2px;
+	float: left;
+	text-align: center;
+
+	
+
+}
+
+
+.end-right{
+    width: 16%;
+    height: 45px;
+    
+    margin:2px 2px;
+    float: left;
+    display: block;
+    margin:0px 0px 0px 396px;
+    align-items: center;
+
+
+
+
+
+}
+
+.end-right img{
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin: 0px 0px 0px 0px;
+
+}
